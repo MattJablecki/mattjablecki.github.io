@@ -13,3 +13,9 @@
   text-shadow: 20px 20px 40px black, 0 0 60px blue, 0 0 50px darkblue;
   font-family: "Shelley Volante";
 }
+
+
+#hero {
+	width:100%;
+	text-align: center;
+}
